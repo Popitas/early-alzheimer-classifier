@@ -8,6 +8,7 @@ dependencies:
   - pandas
   - notebook
   - matplotlib
+  - seaborn
   - nilearn
   - scikit-image
   - tensorflow-deps
